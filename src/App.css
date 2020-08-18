@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.question-card {
+  margin: auto;
+  width: 50%;
+  border: solid black 1px;
+  border-radius: 12px;
+}
+
+.answers {
+  margin:auto;
+  width: 60%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.answer {
+  width: 10%;
+  padding: 16px;
+  margin: 16px;
+  border: solid black 1px;
+  border-radius: 12px;
+}
